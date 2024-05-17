@@ -1,0 +1,30 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is React learning ",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adnanprojects/learn-react.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Adnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adnanprojects/learn-react/issues"
+  },
+  "homepage": "https://github.com/adnanprojects/learn-react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
