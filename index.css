@@ -37,6 +37,12 @@
   padding: 10px 20px;
 }
 
+.filter {
+  cursor: pointer;
+  border: 1px solid;
+  padding: 5px;
+}
+
 .res-container {
   display: flex;
   flex-wrap: wrap;
