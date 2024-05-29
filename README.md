@@ -1,10 +1,11 @@
 # Learning React
 
-# Parcel 
+# Parcel
+
 - Dev Build
 - Local Server
 - HMR => Hot Module Replacement
-- File Watching Algorithms => Written in C++ 
+- File Watching Algorithms => Written in C++
 - Caching => Faster Builds
 - Image Optimization
 - Minification
@@ -18,3 +19,17 @@
 - HTTPs support
 - Tree Shaking => Remove unused code
 - Different Build for dev and production
+
+# Blueprint
+
+- Header
+- - logo
+- - Nav
+- Body
+- - search
+- - card container
+-      - cards
+- Footer
+- - copyright
+- - links
+- - address
