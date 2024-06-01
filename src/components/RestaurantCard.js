@@ -1,7 +1,7 @@
 import { CDN_URL } from "../utils/constant";
 
 const RestaurantCard = (props) => {
-    const { name, cuisines, avgRating, deliveryTime, cloudinaryImageId } = props.resData.info;
+    const { name, cuisines, avgRating, sla: { deliveryTime }, cloudinaryImageId } = props.resData.info;
     return (
         <div className="res-card">
             <img className="res-img" alt="res-img" src={CDN_URL + cloudinaryImageId} />
@@ -13,4 +13,5 @@ const RestaurantCard = (props) => {
     );
 }
 
+// fixed delivery time bug 
 export default RestaurantCard;
