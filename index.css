@@ -93,3 +93,8 @@
   border-radius: 5px;
   background-color: rgb(215, 215, 215);
 }
+
+.footer {
+  height: 100px;
+  background-color: whitesmoke;
+}
