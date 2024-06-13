@@ -1,6 +1,6 @@
 # Learning React
 
-# Parcel
+# Parcel --> Bundler (like Webpack, Vite)
 
 - Dev Build
 - Local Server
@@ -33,3 +33,11 @@
 - - copyright
 - - links
 - - address
+
+# Chunking
+
+    <--> Code Splitting
+    <--> Dynamic Bundling
+    <--> Lazy loading
+    <--> On demand loading
+    <--> Dynamic Import
