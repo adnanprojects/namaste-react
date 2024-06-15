@@ -41,3 +41,15 @@
     <--> Lazy loading
     <--> On demand loading
     <--> Dynamic Import
+
+# Styling
+
+- CSS
+- SASS
+- SCSS
+- Styled-Components
+- TailwindCSS
+- Bootstrap
+- Material UI
+- Chakra UI
+- Ant design
