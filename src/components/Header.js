@@ -14,7 +14,7 @@ const Header = () => {
                 <Link to='/'><img className="w-[120px]" src={LOGO_URL} /></Link>
             </div>
             <div className=''>
-                <ul className="flex">
+                <ul className="flex text-lg pr-4">
                     <li className="border p-2">
                         Online Status : {onlineStatus ? '🟢' : '🔴'}
                     </li>
